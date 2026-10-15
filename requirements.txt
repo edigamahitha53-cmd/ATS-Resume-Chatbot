@@ -1,0 +1,5 @@
+python-telegram-bot==22.8
+pypdf==6.19.0
+python-dotenv
+python-docx
+reportlab
